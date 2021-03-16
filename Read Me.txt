@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                    Steps For the Installation
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Step 1. Run create_table.exe before running the setup.exe file for the first time.
+
+Step 2. Enter the password of your database and wait for the Successful log message.
+
+Step 3. Finally run setup.exe file to launch the product.
+
+
+# NOTE: Don't delete any of the files in the directory since it may cause the software to crash.
+
+Contact the HopeandShahInc to buy the key for the product and get most out of it.
